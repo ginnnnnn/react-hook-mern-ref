@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "aginlo",
+    "DB_PASSWORD": "nothing real",
+    "DB_NAME": "nothing real",
+    "GOOGLE_API_KEY": "nothing real",
+    "JWT_KEY": "nothing real"
+  }
+}
